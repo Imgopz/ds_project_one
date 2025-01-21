@@ -27,7 +27,6 @@ list_of_files=[
     "research/research.ipynb",
     "templates/index.html",
     "app.py"
-
 ]
 
 
